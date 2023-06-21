@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ProektDomakinstvo\bin\Debug\net6.0\ProektDomakinstvo.exe
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ProektDomakinstvo\bin\Debug\net6.0\ProektDomakinstvo.deps.json
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ProektDomakinstvo\bin\Debug\net6.0\ProektDomakinstvo.runtimeconfig.json
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ProektDomakinstvo\bin\Debug\net6.0\ProektDomakinstvo.dll
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ProektDomakinstvo\bin\Debug\net6.0\ProektDomakinstvo.pdb
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ProektDomakinstvo\obj\Debug\net6.0\ProektDomakinstvo.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ProektDomakinstvo\obj\Debug\net6.0\ProektDomakinstvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ProektDomakinstvo\obj\Debug\net6.0\ProektDomakinstvo.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ProektDomakinstvo\obj\Debug\net6.0\ProektDomakinstvo.AssemblyInfo.cs
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ProektDomakinstvo\obj\Debug\net6.0\ProektDomakinstvo.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ProektDomakinstvo\obj\Debug\net6.0\ProektDomakinstvo.dll
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ProektDomakinstvo\obj\Debug\net6.0\refint\ProektDomakinstvo.dll
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ProektDomakinstvo\obj\Debug\net6.0\ProektDomakinstvo.pdb
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ProektDomakinstvo\obj\Debug\net6.0\ProektDomakinstvo.genruntimeconfig.cache
+C:\Users\STUDENTS-STEM-7\Desktop\10D\10d Ivet\ProektDomakinstvo\obj\Debug\net6.0\ref\ProektDomakinstvo.dll
